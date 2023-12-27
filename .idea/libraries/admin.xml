@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="admin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/myskul_admin_final.zip!/" />
+      <root url="jar://$PROJECT_DIR$/MySkulAdmin.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,7 @@
+.message-content{
+    width: 40em;
+    display: inline-block;
+    overflow: hidden;
+    white-space: break-spaces;
+    text-overflow: ellipsis;
+}
